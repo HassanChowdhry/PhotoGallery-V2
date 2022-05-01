@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PhotoGallery-V2/static/css/main.903531b3.css",
-    "main.js": "/PhotoGallery-V2/static/js/main.b1270975.js",
+    "main.js": "/PhotoGallery-V2/static/js/main.c77ece51.js",
     "static/js/787.28cb0dcd.chunk.js": "/PhotoGallery-V2/static/js/787.28cb0dcd.chunk.js",
     "static/media/Hassan-Picture.jpg": "/PhotoGallery-V2/static/media/Hassan-Picture.50e34d3d325dd5f9dd9b.jpg",
     "index.html": "/PhotoGallery-V2/index.html",
     "main.903531b3.css.map": "/PhotoGallery-V2/static/css/main.903531b3.css.map",
-    "main.b1270975.js.map": "/PhotoGallery-V2/static/js/main.b1270975.js.map",
+    "main.c77ece51.js.map": "/PhotoGallery-V2/static/js/main.c77ece51.js.map",
     "787.28cb0dcd.chunk.js.map": "/PhotoGallery-V2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.903531b3.css",
-    "static/js/main.b1270975.js"
+    "static/js/main.c77ece51.js"
   ]
 }
